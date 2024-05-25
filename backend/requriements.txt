@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+sqlalchemy 
+cohere
+llama-index
+llama-index-llms-litellm
+llama-index-llms-cohere
+llama-index-embeddings-cohere
+llama-index-postprocessor-cohere-rerank
